@@ -15,14 +15,14 @@ This project is a command-line warehouse management tool developed in Python. It
 
 ## Technologies/Tools Used
 
-- Python 3.x
+- Python 
 - SQLite (via `sqlite3` Python library)
 - Terminal or Command Prompt
 
 ## Steps to Install & Run the Project
 
 1. **Clone or Download** the project code to your local system.
-2. **Ensure Python 3.x is installed** on your machine.
+2. **Ensure Python is installed** on your machine.
 3. Place the script and, if not already present, create the SQLite database `data_warehouse.db` with tables `goods` and `shipping_date`.
 4. **Run the script** in your terminal:
 python warehouse_management.py
